@@ -1,14 +1,15 @@
 # 🚀 Meu Projeto CI/CD com GitHub Actions
 
-Este projeto demonstra como configurar um **pipeline de integração contínua (CI)** com GitHub Actions para rodar testes automatizados em Python com **pytest** e análise de código com **flake8**.
+Este projeto mostra como configurar um **pipeline de integração contínua (CI)** usando o GitHub Actions para rodar testes automatizados com **pytest** e verificar a qualidade do código com **flake8** de forma prática.
 
 ---
 
-## 🗂️ Estrutura do projeto
+## 📁 Estrutura do projeto
+
 
 ---
 
-## ⚙️ Tecnologias utilizadas
+## 🛠️ Tecnologias usadas
 
 - [Python](https://www.python.org/)
 - [Flask](https://flask.palletsprojects.com/)
@@ -18,6 +19,7 @@ Este projeto demonstra como configurar um **pipeline de integração contínua (
 
 ---
 
-## 📝 Como executar localmente
+## 💻 Como executar localmente
 
 1. Clone o repositório:
+
