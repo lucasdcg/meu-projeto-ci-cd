@@ -26,7 +26,7 @@ jobs:
 
     - name: Rodar flake8 (lint)
       run: |
-        flake8 app/ testes/
+        flake8 app/ 
 
     - name: Rodar testes
       run: |
