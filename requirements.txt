@@ -1,4 +1,4 @@
-flake8
+
 flask
 requests
 pytest
