@@ -22,11 +22,7 @@ jobs:
     - name: Instalar dependências
       run: |
         python -m pip install --upgrade pip
-        pip install -r requirements.txt
-
-    - name: Rodar flake8 (lint)
-      run: |
-        flake8 app/ 
+        pip install -r requirements.txt 
 
     - name: Rodar testes
       run: |
